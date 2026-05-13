@@ -1,3 +1,3 @@
-FROM davidt018/vacunaapp:v4
+FROM davidt018/vacunaapp:v5
 
 EXPOSE 8080
